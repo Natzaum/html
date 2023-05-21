@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.list {
+    font-style: italic;
+    color: white;
+} /* .class */
+
+#listakwanzas {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+} /* #ID */
+
+#div {
+    width: 187px;
+}
+
+.gifanime {
+    border: 5px solid #820eac;
+    border-radius: 200px;
+}
+
+body {
+    margin-left: 550px;
+    background: rgb(30, 27, 27);
+    color: white;
+}
+
+#testingpage {
+    margin-left: 65px;
+}
